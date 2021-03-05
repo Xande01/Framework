@@ -1,0 +1,21 @@
+.mid{
+  height: 300px;
+  width: 800px;
+  display: flex;    
+  justify-content: center;
+  margin-left: 25%;
+  margin-top: 5%;    
+  background-color: white;
+  flex-direction: column;
+}
+
+.cor{
+  background-color: #f1f1f1;
+  color: black;
+}
+
+p{
+  color: black;
+}
+
+  

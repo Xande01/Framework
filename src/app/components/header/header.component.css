@@ -1,0 +1,27 @@
+.header{
+  display: flex;
+  align-items: center;
+}
+
+.header span {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+  width: auto;  
+}
+span:hover {
+  border-bottom: 1px solid #d3d3d3;  
+}
+.header .title-group{
+  padding-left: 25px;
+}
+
+.header .title-group i{
+  padding-right: 5px;
+}
+
+i{
+  color: #c2185b
+}

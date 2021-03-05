@@ -1,0 +1,17 @@
+.full-width-table {
+  width: 100%;
+}
+
+mat-select{  
+  margin-left: 11px;
+  width: 1909px;
+  background: #424242;
+}
+
+mat-option{
+  padding-left: 10px;
+}
+
+table{
+  background-color: #c2185b;
+}
